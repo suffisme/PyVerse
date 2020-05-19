@@ -40,3 +40,5 @@
 (https://github.com/suffisme/Jupyter-Notebooks-Labs/blob/master/BigO/bigO.ipynb)
 
 
+<B><I>Contributors</I></B>
+<img src="src/maintainers.jpeg" style="width:800px;height:300px;">

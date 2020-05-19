@@ -41,4 +41,4 @@
 
 
 <B><I>Contributors</I></B>
-<img src="src/maintainers.jpeg" style="width:400px;height:538px;">
+<img src="src/maintainers.jpeg" style="width:538px;height:400px;">

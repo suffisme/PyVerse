@@ -1,6 +1,7 @@
 # Jupyter Notebooks Labs
 
 ### The Repository mainly contains the jupyter notebooks helpful for data analysis and data representation
+### Some notebooks are also provided to give exposure to various use cases of Python
 
 - [Basics of Data Handling](https://github.com/suffisme/Jupyter_Notebooks_Labs/tree/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data)
 - [Data Analysing](https://github.com/suffisme/Jupyter_Notebooks_Labs/tree/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis)

@@ -1,4 +1,4 @@
-<h1><center> Jupyter Notebooks Labs</center><h1>
+# Jupyter Notebooks Labs
 
 ### The Repository mainly contains the Python Resourses helpful for various use-cases in different fields
 

@@ -35,8 +35,7 @@
   - [Generating Maps in Python](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.5%20Generating-Maps-in-Python-py.ipynb)
   
 ## Asymptotic Analysis of Algorithms
-  - [Load Jupyter Notebook] 
-(https://github.com/suffisme/Jupyter-Notebooks-Labs/blob/master/BigO/bigO.ipynb)
+  - [Load Jupyter Notebook](BigO/bigO.ipynb)
 
 
 <B><I>Contributors</I></B>

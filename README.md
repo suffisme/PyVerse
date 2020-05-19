@@ -35,7 +35,8 @@
   - [Waffle Charts Word Clouds and Regression Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.4%20Waffle-Charts-Word-Clouds-and-Regression-Plots-py.ipynb)
   - [Generating Maps in Python](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.5%20Generating-Maps-in-Python-py.ipynb)
   
-  ## Asymptotic Analysis of Algorithms
-  [[Load Jupyter Notebook]] (https://github.com/suffisme/Jupyter-Notebooks-Labs/blob/master/BigO/bigO.ipynb)
+## Asymptotic Analysis of Algorithms
+  - [Load Jupyter Notebook] 
+(https://github.com/suffisme/Jupyter-Notebooks-Labs/blob/master/BigO/bigO.ipynb)
 
 

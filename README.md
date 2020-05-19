@@ -38,9 +38,9 @@
   - [Load Jupyter Notebook](BigO/bigO.ipynb)
 
 
-<h1><B><I>Contributors</I></B></h1>
-<li><h2>[Mohd Sufiyan Ansari](https://github.com/suffisme)</h2</li>
- <li><h2>[Anshuman Mishra](https://github.com/shivanshuman021)</h2</li>
+## _Contributors_
+- [Mohd Sufiyan Ansari](https://github.com/suffisme)
+- [Anshuman Mishra](https://github.com/shivanshuman021)
 <img src="src/maintainers.jpeg" style="width:538px;height:400px;">
 
 

@@ -25,7 +25,7 @@
   - [Model Evaluation and Refinement](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.5%20Model-Evaluation-and-Refinement.ipynb)
 
 ## Data Visualisation
-<center><B>Official Documentation</B></center>
+### Official Documentation
   - [PyPlot](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/Official%20Documentation/pyplot.py)
 - Jupyter-Notebooks
   - [Introduction to Matplotlib and Line Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.1%20Introduction-to-Matplotlib-and-Line-Plots-py.ipynb)

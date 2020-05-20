@@ -48,6 +48,7 @@
 ## _Contributors_
 - [Mohd Sufiyan Ansari](https://github.com/suffisme)
 - [Anshuman Mishra](https://github.com/shivanshuman021)
+<br>
 <img src="src/maintainers.jpeg" style="width:538px;height:400px;">
 
 

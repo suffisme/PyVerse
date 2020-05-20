@@ -1,4 +1,4 @@
-# Jupyter Notebooks Labs
+# PyVerse
 
 ### The Repository mainly contains the Python Resourses helpful for various use-cases in different fields
 
@@ -35,7 +35,14 @@
   - [Generating Maps in Python](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.5%20Generating-Maps-in-Python-py.ipynb)
   
 ## Asymptotic Analysis of Algorithms
-  - [Load Jupyter Notebook](BigO/bigO.ipynb)
+- Jupyter-Notebook
+  - [Big O Notation](BigO/bigO.ipynb)
+
+## Time Comparison With Different Algorithm
+- Jupyter-Notebook
+  - [Longest Word in a String](ComparingTimeWithDifferentAlgorithm/LongestWord.ipynb)
+
+<hr>
 
 
 ## _Contributors_

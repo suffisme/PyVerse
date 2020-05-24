@@ -42,25 +42,25 @@
 
 ## Python Bootcamp
 ##### For beginners to start learning in python
-- Python Objects and Data Structure Basics
-- Python Comparison Operators
-- Python Statements
-- Methods and Functions
-- Milestone Project - 1
-- Object Oriented Programming
-- Modules and Packages
-- Errors and Exception Handling
-- Milestone Project - 2
-- Built-in Functions
-- Python Decorators
-- Python Generators
-- Final Capstone Python Project
-- Advanced Python Modules
-- Advanced Python Objects and Data Structure
-- Advanced OOP
-- Bonus Material - Introduction to GUIs
-- Parallel Processing
-- Python Notebooks Guide
+- [Python Objects and Data Structure Basics](Python%20BootCamp/)
+- [Python Comparison Operators](Python%20BootCamp/)
+- [Python Statements](Python%20BootCamp/)
+- [Methods and Functions](Python%20BootCamp/)
+- [Milestone Project - 1](Python%20BootCamp/)
+- [Object Oriented Programming](Python%20BootCamp/)
+- [Modules and Packages](Python%20BootCamp/)
+- [Errors and Exception Handling](Python%20BootCamp/)
+- [Milestone Project - 2](Python%20BootCamp/)
+- [Built-in Functions](Python%20BootCamp/)
+- [Python Decorators](Python%20BootCamp/)
+- [Python Generators](Python%20BootCamp/)
+- [Final Capstone Python Project](Python%20BootCamp/)
+- [Advanced Python Modules](Python%20BootCamp/)
+- [Advanced Python Objects and Data Structure](Python%20BootCamp/)
+- [Advanced OOP](Python%20BootCamp/)
+- [Bonus Material - Introduction to GUIs](Python%20BootCamp/)
+- [Parallel Processing](Python%20BootCamp/)
+- [Python Notebooks Guide](Python%20BootCamp/)
 <hr>
 
 

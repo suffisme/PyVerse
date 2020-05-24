@@ -37,11 +37,30 @@
 ## Asymptotic Analysis of Algorithms
 - Jupyter-Notebook
   - [Big O Notation](BigO/bigO.ipynb)
-
-## Time Comparison With Different Algorithm
-- Jupyter-Notebook
+- Time Comparison With Different Algorithm
   - [Longest Word in a String](ComparingTimeWithDifferentAlgorithm/LongestWord.ipynb)
 
+## Python Bootcamp
+##### For beginners to start learning in python
+- Python Objects and Data Structure Basics
+- Python Comparison Operators
+- Python Statements
+- Methods and Functions
+- Milestone Project - 1
+- Object Oriented Programming
+- Modules and Packages
+- Errors and Exception Handling
+- Milestone Project - 2
+- Built-in Functions
+- Python Decorators
+- Python Generators
+- Final Capstone Python Project
+- Advanced Python Modules
+- Advanced Python Objects and Data Structure
+- Advanced OOP
+- Bonus Material - Introduction to GUIs
+- Parallel Processing
+- Python Notebooks Guide
 <hr>
 
 

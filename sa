@@ -1,0 +1,205 @@
+[33mcommit 5d0010723fd40dbc5f973e7ee9e341ae18af678d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 39894ee f39ef95
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Wed May 20 02:05:55 2020 +0530
+
+    Merge branch 'master' of https://github.com/suffisme/PyVerse
+
+[33mcommit 39894eee47effaa4730974ae19c2f49e291025ee[m[33m ([m[1;32mhelp[m[33m)[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Wed May 20 02:02:20 2020 +0530
+
+    Added by MSA
+
+[33mcommit f39ef956b6db4b0d05133f42c559aa160cf0b6c6[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Tue May 19 21:36:47 2020 +0530
+
+    Update README.md
+
+[33mcommit 65f2f2fee533e5091fe051f01b144370122ae610[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Tue May 19 21:35:42 2020 +0530
+
+    Added Contributors Name
+
+[33mcommit 51a13f1ad99535894f75f1a386e2c1560bd6b8ab[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Tue May 19 21:32:27 2020 +0530
+
+    Added Links
+
+[33mcommit 920203b9fc12513c28e226dcd83cabfad17302c2[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:59:28 2020 +0530
+
+    Update README.md
+
+[33mcommit b175a193463a9e2068befc688c05484ee2a7b2c6[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:57:39 2020 +0530
+
+    Update README.md
+
+[33mcommit 987b34ba137927ab288eb630419a113704110037[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:56:39 2020 +0530
+
+    Update README.md
+
+[33mcommit 5b72688141d8e2b6655ee313b32f8980d3f96752[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:55:43 2020 +0530
+
+    Update README.md
+
+[33mcommit b51beab0c09c45bd3304ac959d9b3452a27353cf[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:52:13 2020 +0530
+
+    Update README.md
+
+[33mcommit a257ecc06d8aba3c14c4f617707fe40dce825713[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:50:47 2020 +0530
+
+    Update README.md
+
+[33mcommit 927b1706c5d8230ade9f8dff90a11bcd982fba05[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:48:58 2020 +0530
+
+    Update README.md
+
+[33mcommit 1de19966526ad7601612a6b1342b8ffcd8315ecb[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:44:31 2020 +0530
+
+    Update README.md
+
+[33mcommit 9e1d41ae94b3502b5206cc61f8bbec3f726b0419[m
+Author: shivanshuman021 <shivanshuman021@gmail.com>
+Date:   Tue May 19 10:41:12 2020 +0530
+
+    img added by AM
+
+[33mcommit 0a5569eebcd176aeb499f8b2280158cddb9f6013[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:37:21 2020 +0530
+
+    Update README.md
+
+[33mcommit 0fe7e8fb89207306a1d8155807e080336ac42f5a[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:34:56 2020 +0530
+
+    Update README.md
+
+[33mcommit eafebad32f1423697253a255d2c54c1b48f3ce46[m
+Merge: d0756de 91c5775
+Author: shivanshuman021 <shivanshuman021@gmail.com>
+Date:   Tue May 19 10:31:13 2020 +0530
+
+    Merge https://github.com/suffisme/Jupyter-Notebooks-Labs
+
+[33mcommit d0756ded9fefe4dc1f14bf1102e94907d13697f3[m
+Author: shivanshuman021 <shivanshuman021@gmail.com>
+Date:   Tue May 19 10:29:06 2020 +0530
+
+    Notebook added by AM
+
+[33mcommit 91c577534d6f25cb03b7771404635fb17778a4c6[m
+Author: Anshuman Mishra <51750587+shivanshuman021@users.noreply.github.com>
+Date:   Tue May 19 10:22:22 2020 +0530
+
+    Update README.md
+
+[33mcommit 989311d7cc3a6a3be430d33ff8d91ab71d681272[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 02:54:32 2020 +0530
+
+    Set theme jekyll-theme-hacker
+
+[33mcommit 157d9f6cb847ee891f49bb812dcd8b5820d3bfc0[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 02:53:58 2020 +0530
+
+    Set theme jekyll-theme-midnight
+
+[33mcommit bf6eeaf01d42ad31ee6141b609beaa3e2ac80b2f[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 02:48:01 2020 +0530
+
+    Update README.md
+
+[33mcommit df12ccba0902b1c0ad65e0835aa4116e12f668a1[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 02:39:31 2020 +0530
+
+    Update README.md
+
+[33mcommit b599374bb1f36d9bb0edd379fc124fe6751c48c9[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 02:25:14 2020 +0530
+
+    Set theme jekyll-theme-hacker
+
+[33mcommit 76df46278e48d752cba9529fb7c6fbe40d02e86c[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 02:22:23 2020 +0530
+
+    Create README.md
+
+[33mcommit d329add33013b8bf4c8dacc42033bb9657aeff34[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 02:09:33 2020 +0530
+
+    Contains Exercises and Reading Materials
+
+[33mcommit d527089e8ce41b91f9a91d32a17140daf60b6c08[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 01:57:03 2020 +0530
+
+    Contains Exercises Too
+
+[33mcommit c122cc30f2d5e13a7c2927b23115c50ae69e62d4[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 01:56:25 2020 +0530
+
+    Contains Exercises Too
+
+[33mcommit 63fafae428e211163d88e00a9ca8b052f6cce7a1[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 01:54:13 2020 +0530
+
+    Contains Exercises Too
+
+[33mcommit 6ac8041461baef6a298c6e142d9264460a64ac2d[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 01:52:40 2020 +0530
+
+    Delete Lab-Loading And Viewing Data.ipynb
+
+[33mcommit 4c908a44c5a6c92edc0ba85a6bef81563fdcaab0[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 01:52:16 2020 +0530
+
+    Add files via upload
+
+[33mcommit b4c1fb6bbf2e4607ba047b354b5346c5389521b3[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 01:50:32 2020 +0530
+
+    Rename Loading and Viewing Data to Loading_and_Viewing_Data.ipynb
+
+[33mcommit 3491d803e013a271005dae0e245215c1d898715d[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Thu Apr 30 01:49:15 2020 +0530
+
+    Basics of Pandas
+
+[33mcommit 399db0c448ff3f56f09c048a37bf71a68fd4c336[m
+Author: Mohd Sufiyan Ansari <addsufiyan@gmail.com>
+Date:   Mon Apr 6 16:58:33 2020 +0530
+
+    Added Notebook

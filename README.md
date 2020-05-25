@@ -33,12 +33,6 @@
   - [Pie Charts Box Plots Scatter Plots and Bubble Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.3%20Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots-py.ipynb)
   - [Waffle Charts Word Clouds and Regression Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.4%20Waffle-Charts-Word-Clouds-and-Regression-Plots-py.ipynb)
   - [Generating Maps in Python](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.5%20Generating-Maps-in-Python-py.ipynb)
-  
-## Asymptotic Analysis of Algorithms
-- Jupyter-Notebook
-  - [Big O Notation](BigO/bigO.ipynb)
-- Time Comparison With Different Algorithm
-  - [Longest Word in a String](ComparingTimeWithDifferentAlgorithm/LongestWord.ipynb)
 
 ## Python Bootcamp
 ##### For beginners to start learning in python

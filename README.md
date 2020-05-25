@@ -11,7 +11,7 @@
 
 
 ## Basics of Data Handling
-- Jupyter-Notebooks
+- <i class="fa fa-folder" style="margin-right: 5px;"></i>Jupyter-Notebooks
   - <i class="fa fa-book" style="margin-right: 5px;"></i>[Reading Data](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/1.1%20ReadFile.ipynb)
   - <i class="fa fa-book" style="margin-right: 5px;"></i>[Writing Data](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/1.2%20WriteFile.ipynb)
   - <i class="fa fa-book" style="margin-right: 5px;"></i>[Loading and Viewing data](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/1.3%20Loading%20And%20Viewing%20Data.ipynb)
@@ -20,7 +20,7 @@
     - <i class="fa fa-book" style="margin-right: 5px;"></i>[2D Array](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/2.2%20Numpy2D.ipynb)
 
 ## Data Analysing
-- Jupyter-Notebook
+- <i class="fa fa-folder" style="margin-right: 5px;"></i>Jupyter-Notebook
   - <i class="fa fa-book" style="margin-right: 5px;"></i>[Review Introduction](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.1%20Review-Introduction.ipynb)
   - <i class="fa fa-book" style="margin-right: 5px;"></i>[Data Wrangling](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.2%20Data-Wrangling.ipynb)
   - <i class="fa fa-book" style="margin-right: 5px;"></i>[Exploratory Data Analysis](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.3%20Exploratory-Data-Analysis.ipynb)
@@ -62,8 +62,8 @@
 
 
 ## _Contributors_
-- [Mohd Sufiyan Ansari](https://github.com/suffisme)
-- [Anshuman Mishra](https://github.com/shivanshuman021)
+- <i class="fa fa-user" style="margin-right: 5px;"></i>[Mohd Sufiyan Ansari](https://github.com/suffisme)
+- <i class="fa fa-user" style="margin-right: 5px;"></i>[Anshuman Mishra](https://github.com/shivanshuman021)
 <br>
 <img src="src/maintainers.jpeg" style="width:538px;height:400px;">
 

@@ -57,7 +57,7 @@
 - <i class="fa fa-folder" style="margin-right: 5px;"></i>[Advanced OOP](Python%20BootCamp/15-Advanced%20OOP)
 - <i class="fa fa-folder" style="margin-right: 5px;"></i>[Bonus Material - Introduction to GUIs](Python%20BootCamp/16-Bonus%20Material%20-%20Introduction%20to%20GUIs)
 - <i class="fa fa-folder" style="margin-right: 5px;"></i>[Parallel Processing](Python%20BootCamp/17-Parallel%20Processing)
-- [Python Notebooks Guide](Python%20BootCamp/Jupyter%20iPython%20Notebooks%20Guide.ipynb)
+- <i class="fa fa-book" style="margin-right: 5px;"></i>[Python Notebooks Guide](Python%20BootCamp/Jupyter%20iPython%20Notebooks%20Guide.ipynb)
 <hr>
 
 

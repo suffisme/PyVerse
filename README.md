@@ -39,8 +39,8 @@
 
 ## Python Bootcamp
 ##### For beginners to start learning in python
-- <i class="fa fa-folder"></i>[Python Objects and Data Structure Basics](Python%20BootCamp/00-Python%20Object%20and%20Data%20Structure%20Basics)
-- [Python Comparison Operators](Python%20BootCamp/01-Python%20Comparison%20Operators)
+- <i class="fa fa-folder" style="margin-right: 5px;"></i>[Python Objects and Data Structure Basics](Python%20BootCamp/00-Python%20Object%20and%20Data%20Structure%20Basics)
+- <i class="fa fa-folder" style="margin-right: 5px;"></i>[Python Comparison Operators](Python%20BootCamp/01-Python%20Comparison%20Operators)
 - [Python Statements](Python%20BootCamp/02-Python%20Statements)
 - [Methods and Functions](Python%20BootCamp/03-Methods%20and%20Functions)
 - [Milestone Project - 1](Python%20BootCamp/04-Milestone%20Project%20-%201)

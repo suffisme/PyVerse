@@ -37,7 +37,7 @@
   - <i class="fa fa-book" style="margin-right: 5px;"></i>[Waffle Charts Word Clouds and Regression Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.4%20Waffle-Charts-Word-Clouds-and-Regression-Plots-py.ipynb)
   - <i class="fa fa-book" style="margin-right: 5px;"></i>[Generating Maps in Python](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.5%20Generating-Maps-in-Python-py.ipynb)
 
-## <i class="fa fa-files-medical" style="margin-right: 5px;"></i>Python Bootcamp
+## <i class="fa fa-files" style="margin-right: 5px;"></i>Python Bootcamp
 ##### For beginners to start learning in python
 - <i class="fa fa-folder" style="margin-right: 5px;"></i>[Python Objects and Data Structure Basics](Python%20BootCamp/00-Python%20Object%20and%20Data%20Structure%20Basics)
 - <i class="fa fa-folder" style="margin-right: 5px;"></i>[Python Comparison Operators](Python%20BootCamp/01-Python%20Comparison%20Operators)
@@ -62,8 +62,8 @@
 
 
 ## _Contributors_
-- <i class="fa fa-user" style="margin-right: 5px;"></i>[Mohd Sufiyan Ansari](https://github.com/suffisme)
-- <i class="fa fa-user" style="margin-right: 5px;"></i>[Anshuman Mishra](https://github.com/shivanshuman021)
+ <i class="fa fa-user" style="margin-right: 5px;"></i>[Mohd Sufiyan Ansari](https://github.com/suffisme)
+ <i class="fa fa-user" style="margin-right: 5px;"></i>[Anshuman Mishra](https://github.com/shivanshuman021)
 <br>
 <img src="src/maintainers.jpeg" style="width:538px;height:400px;">
 

@@ -5,19 +5,19 @@
 
 ### The Repository mainly contains the Python Resourses helpful for various use-cases in different fields
 
-- [Basics of Data Handling](https://github.com/suffisme/Jupyter_Notebooks_Labs/tree/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data)
-- [Data Analysing](https://github.com/suffisme/Jupyter_Notebooks_Labs/tree/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis)
-- [Data Representation](https://github.com/suffisme/Jupyter_Notebooks_Labs/tree/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib)
+- <i class="fa fa-folder" style="margin-right: 5px;"></i>[Basics of Data Handling](https://github.com/suffisme/Jupyter_Notebooks_Labs/tree/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data)
+- <i class="fa fa-folder" style="margin-right: 5px;"></i>[Data Analysing](https://github.com/suffisme/Jupyter_Notebooks_Labs/tree/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis)
+- <i class="fa fa-folder" style="margin-right: 5px;"></i>[Data Representation](https://github.com/suffisme/Jupyter_Notebooks_Labs/tree/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib)
 
 
 ## Basics of Data Handling
 - Jupyter-Notebooks
-  - [Reading Data](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/1.1%20ReadFile.ipynb)
-  - [Writing Data](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/1.2%20WriteFile.ipynb)
-  - [Loading and Viewing data](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/1.3%20Loading%20And%20Viewing%20Data.ipynb)
-  - Basics of Numpy Array
-    - [1D Array](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/2.1%20Numpy1D.ipynb)
-    - [2D Array](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/2.2%20Numpy2D.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Reading Data](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/1.1%20ReadFile.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Writing Data](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/1.2%20WriteFile.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Loading and Viewing data](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/1.3%20Loading%20And%20Viewing%20Data.ipynb)
+  - <i class="fa fa-folder" style="margin-right: 5px;"></i>Basics of Numpy Array
+    - <i class="fa fa-book" style="margin-right: 5px;"></i>[1D Array](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/2.1%20Numpy1D.ipynb)
+    - <i class="fa fa-book" style="margin-right: 5px;"></i>[2D Array](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data/2.2%20Numpy2D.ipynb)
 
 ## Data Analysing
 - Jupyter-Notebook

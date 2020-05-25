@@ -1,9 +1,10 @@
 <head>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 </head>
+
 # PyVerse
 
-### The Repository mainly contains the Python Resourses helpful for various use-cases in different fields
+### The Repository mainly contains the Python Resourses helpful for various use-cases in different fields.
 
 - <i class="fa fa-folder" style="margin-right: 5px;"></i>[Basics of Data Handling](https://github.com/suffisme/Jupyter_Notebooks_Labs/tree/master/Working%20With%20Data/Pandas%20and%20Numpy/Basics%20of%20Data)
 - <i class="fa fa-folder" style="margin-right: 5px;"></i>[Data Analysing](https://github.com/suffisme/Jupyter_Notebooks_Labs/tree/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis)

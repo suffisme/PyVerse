@@ -62,8 +62,9 @@
 
 
 ## _Contributors_
- <i class="fa fa-user" style="margin-right: 5px;"></i>[Mohd Sufiyan Ansari](https://github.com/suffisme)
- <i class="fa fa-user" style="margin-right: 5px;"></i>[Anshuman Mishra](https://github.com/shivanshuman021)
+<i class="fa fa-user" style="margin-right: 10px;"></i>[Mohd Sufiyan Ansari](https://github.com/suffisme)
+<br>
+<i class="fa fa-user" style="margin-right: 10px;"></i>[Anshuman Mishra](https://github.com/shivanshuman021)
 <br>
 <img src="src/maintainers.jpeg" style="width:538px;height:400px;">
 

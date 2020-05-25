@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+</head>
 # PyVerse
 
 ### The Repository mainly contains the Python Resourses helpful for various use-cases in different fields
@@ -36,7 +39,7 @@
 
 ## Python Bootcamp
 ##### For beginners to start learning in python
-- [Python Objects and Data Structure Basics](Python%20BootCamp/00-Python%20Object%20and%20Data%20Structure%20Basics)
+- <i class="fa fa-folder"></i>[Python Objects and Data Structure Basics](Python%20BootCamp/00-Python%20Object%20and%20Data%20Structure%20Basics)
 - [Python Comparison Operators](Python%20BootCamp/01-Python%20Comparison%20Operators)
 - [Python Statements](Python%20BootCamp/02-Python%20Statements)
 - [Methods and Functions](Python%20BootCamp/03-Methods%20and%20Functions)

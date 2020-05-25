@@ -21,21 +21,21 @@
 
 ## Data Analysing
 - Jupyter-Notebook
-  - [Review Introduction](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.1%20Review-Introduction.ipynb)
-  - [Data Wrangling](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.2%20Data-Wrangling.ipynb)
-  - [Exploratory Data Analysis](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.3%20Exploratory-Data-Analysis.ipynb)
-  - [Model Development](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.4%20Model-Development.ipynb)
-  - [Model Evaluation and Refinement](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.5%20Model-Evaluation-and-Refinement.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Review Introduction](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.1%20Review-Introduction.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Data Wrangling](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.2%20Data-Wrangling.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Exploratory Data Analysis](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.3%20Exploratory-Data-Analysis.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Model Development](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.4%20Model-Development.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Model Evaluation and Refinement](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Pandas%20and%20Numpy/Starting%20with%20Data%20Analysis/1.5%20Model-Evaluation-and-Refinement.ipynb)
 
 ## Data Visualisation
 ### Official Documentation
-  - [PyPlot](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/Official%20Documentation/pyplot.py)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[PyPlot](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/Official%20Documentation/pyplot.py)
 - Jupyter-Notebooks
-  - [Introduction to Matplotlib and Line Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.1%20Introduction-to-Matplotlib-and-Line-Plots-py.ipynb)
-  - [Area Plots Histograms and Bar Charts](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.2%20Area-Plots-Histograms-and-Bar-Charts-py.ipynb)
-  - [Pie Charts Box Plots Scatter Plots and Bubble Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.3%20Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots-py.ipynb)
-  - [Waffle Charts Word Clouds and Regression Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.4%20Waffle-Charts-Word-Clouds-and-Regression-Plots-py.ipynb)
-  - [Generating Maps in Python](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.5%20Generating-Maps-in-Python-py.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Introduction to Matplotlib and Line Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.1%20Introduction-to-Matplotlib-and-Line-Plots-py.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Area Plots Histograms and Bar Charts](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.2%20Area-Plots-Histograms-and-Bar-Charts-py.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Pie Charts Box Plots Scatter Plots and Bubble Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.3%20Pie-Charts-Box-Plots-Scatter-Plots-and-Bubble-Plots-py.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Waffle Charts Word Clouds and Regression Plots](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.4%20Waffle-Charts-Word-Clouds-and-Regression-Plots-py.ipynb)
+  - <i class="fa fa-book" style="margin-right: 5px;"></i>[Generating Maps in Python](https://github.com/suffisme/Jupyter_Notebooks_Labs/blob/master/Working%20With%20Data/Data%20Visualisation%20and%20Matplotlib/1.5%20Generating-Maps-in-Python-py.ipynb)
 
 ## Python Bootcamp
 ##### For beginners to start learning in python
